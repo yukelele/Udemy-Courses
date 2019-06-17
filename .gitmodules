@@ -1,3 +1,6 @@
 [submodule "Python_and_Django_Full_Stack_Web_Developer"]
 	path = Python_and_Django_Full_Stack_Web_Developer
 	url = git@github.com:yukelele/Udemy_Python_and_Django_Full_Stack_Web_Developer_Bootcamp.git
+[submodule "Udemy_JavaScript_Masterclass_2019_Modern_and_Comprehensive"]
+	path = Udemy_JavaScript_Masterclass_2019_Modern_and_Comprehensive
+	url = git@github.com:yukelele/Udemy_JavaScript_Masterclass_2019_Modern_and_Comprehensive.git
